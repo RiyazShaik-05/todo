@@ -12,7 +12,7 @@ A simple and efficient To-Do app built with Vite and React.
 
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/RiyazShaik-05/todo
    ```
 2. Navigate to the project directory:
    ```sh
