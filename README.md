@@ -16,7 +16,7 @@ A simple and efficient To-Do app built with Vite and React.
    ```
 2. Navigate to the project directory:
    ```sh
-   cd todo-app
+   cd todo
    ```
 3. Install dependencies:
    ```sh
